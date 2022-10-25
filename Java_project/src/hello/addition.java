@@ -1,9 +1,10 @@
+package hello;
 
-public class welcome {
+public class addition {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("welcome");
+		System.out.println("neha");
 
 	}
 
